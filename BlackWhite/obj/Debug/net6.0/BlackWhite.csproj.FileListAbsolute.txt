@@ -1,0 +1,15 @@
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\bin\Debug\net6.0\BlackWhite.exe
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\bin\Debug\net6.0\BlackWhite.deps.json
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\bin\Debug\net6.0\BlackWhite.runtimeconfig.json
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\bin\Debug\net6.0\BlackWhite.dll
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\bin\Debug\net6.0\BlackWhite.pdb
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\BlackWhite.csproj.AssemblyReference.cache
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\BlackWhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\BlackWhite.AssemblyInfoInputs.cache
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\BlackWhite.AssemblyInfo.cs
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\BlackWhite.csproj.CoreCompileInputs.cache
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\BlackWhite.dll
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\refint\BlackWhite.dll
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\BlackWhite.pdb
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\BlackWhite.genruntimeconfig.cache
+C:\Users\nizam\Desktop\BlackWhite - project\BlackWhite\obj\Debug\net6.0\ref\BlackWhite.dll
